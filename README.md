@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**sofya-kuchinskaya/sofya-kuchinskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет, я [Софья]!
 
-Here are some ideas to get you started:
+**🎓 Студент**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Обо мне:
+- 🔭 Сейчас работаю над: [calculus_tool]
+- 🌱 Изучаю: Python, математику, анализ данных
+- 📫 Как связаться: [sonysmail876@gmail.com]
+
+## 🛠 Технологии и инструменты:
+`Python` `Pandas` `NumPy` `Seaborn` `Jupyter` `Git` `SymPy` `Math` 
+
+## 📊 Мои проекты:
+
+### 🔍 [calculus_tool](ссылка)
+- EDA и feature engineering
+- Построение моделей классификации
+- Визуализация результатов
+
